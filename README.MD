@@ -5,7 +5,7 @@ A data analytics dashboard built with **game event data** to analyze player beha
 🔗 **[View the interactive dashboard on Looker Studio →](https://lookerstudio.google.com/reporting/506c75d3-9105-44ff-9ddb-aad1a6819208)**  
 <p align="center">
   <a href="https://lookerstudio.google.com/reporting/506c75d3-9105-44ff-9ddb-aad1a6819208" target="_blank">
-    <img src="https://github.com/yourusername/floodit-analytics/blob/main/FloodIt_Analytics_Preview.png" />
+    <img src="https://github.com/ntmh12/game-analysis/blob/main/FloodIt_Analytics_Preview.png" />
   </a>
 </p>
 
